@@ -9,7 +9,7 @@
     <name>Hello World By WangJian</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        这是一个phonegap的演示，基于git
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
